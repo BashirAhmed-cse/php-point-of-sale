@@ -1,5 +1,4 @@
-<?php
- 
- define("APP_NAME", "My POS");
- 
-?>
+<?php 
+
+
+define("APP_NAME", "My POS");
